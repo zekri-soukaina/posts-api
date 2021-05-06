@@ -6,3 +6,14 @@
   top: 40px;
   left: 50px;
 }
+.navBar {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-around;
+}
+.avatar {
+  position: absolute;
+  font-size: 30px;
+  top: 40px;
+  right: 50px;
+}

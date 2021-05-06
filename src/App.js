@@ -5,10 +5,8 @@ import Routers from "./components/Routers";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Logo />
-        <Routers />
-      </header>
+      <Logo />
+      <Routers />
     </div>
   );
 }
